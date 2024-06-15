@@ -1,7 +1,8 @@
-venv
+.venv
 .idea
 *.pyc
 .DS_Store
+__pycache__
 env.sh
 *.log
 data.json

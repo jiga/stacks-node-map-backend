@@ -4,7 +4,7 @@ PWD_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 BASE_DIR="$PWD_DIR/.."
 SRC_DIR="$PWD_DIR/../src"
-VENVDIR="$PWD_DIR/../venv"
+VENVDIR="$PWD_DIR/../.venv"
 
 source "${BASE_DIR}/env.sh"
 
