@@ -9,3 +9,4 @@ MarkupSafe==1.1.1
 Jinja2==2.11.2
 Werkzeug==1.0.1
 requests==2.32.3
+tqdm==4.66.4
